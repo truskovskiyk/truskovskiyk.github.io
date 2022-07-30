@@ -1,5 +1,5 @@
-base_url = "https://not-matthias.github.io/apollo/"
-title = "kyryl blog"
+base_url = "https://truskovskiyk.github.io/"
+title = "truskovskiy"
 build_search_index = true
 generate_feed = true
 compile_sass = true
@@ -23,8 +23,8 @@ menu = [
 ]
 
 socials = [
-    { name = "twitter", url = "https://twitter.com/not_matthias", icon = "twitter" },
-    { name = "github", url = "https=//github.com/not-matthias/", icon = "github" },
+    { name = "twitter", url = "https://twitter.com/truskovskiy", icon = "twitter" },
+    { name = "github", url = "https://github.com/truskovskiyk", icon = "github" },
 ]
 
 custom_css = []
