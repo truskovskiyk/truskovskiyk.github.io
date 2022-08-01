@@ -21,5 +21,5 @@ LinkedIn: [https://www.linkedin.com/in/kyryl-truskovskyi-275b7967/](https://www.
 
 # War
 
-Like for any Ukrainian. War, since 2014 and even bigger since 2022, is a big part of my life and who I am. Please support the Ukrainian army. 
-[My full thoughts about this you can find here](https://www.linkedin.com/posts/kyryl-truskovskyi-275b7967_russia-ukraine-war-info-and-ways-to-help-activity-6903007357169987584-qL1K)
+Like for any Ukrainian. War, since 2014 and full-scale invasion since 2022, is a big part of my life and who I am. [Please support the Ukrainian army.](https://www.comebackalive.in.ua/) 
+[My thoughts about this you can find here](https://www.linkedin.com/posts/kyryl-truskovskyi-275b7967_russia-ukraine-war-info-and-ways-to-help-activity-6903007357169987584-qL1K)
