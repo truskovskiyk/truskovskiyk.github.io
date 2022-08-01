@@ -4,6 +4,8 @@ build_search_index = true
 generate_feed = true
 compile_sass = true
 minify_html = true
+
+
 theme = "apollo"
 
 [markdown]
@@ -25,10 +27,3 @@ socials = [
     { name = "twitter", url = "https://twitter.com/truskovskiy", icon = "twitter" },
     { name = "github", url = "https://github.com/truskovskiyk", icon = "github" },
 ]
-
-custom_css = []
-
-[extra.analytics]
-enabled = false
-goatcounter_user = "your_user"
-goatcounter_host = "example.com"    # default= goatcounter.com
