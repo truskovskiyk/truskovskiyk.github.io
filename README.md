@@ -8,5 +8,5 @@ zola serve
 
 ## Base on: 
 
-(apollo)[https://www.getzola.org/themes/apollo/]
+[apollo](https://www.getzola.org/themes/apollo/)
 
